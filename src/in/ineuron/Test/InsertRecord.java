@@ -25,7 +25,7 @@ public class InsertRecord {
 			if(transaction != null) {
 				
 				Product product = new Product();
-				product.setPname("Fastrack");
+				product.setPname("Fossil");
 				product.setPrice(7000);
 				product.setQty(15);
 				
